@@ -1,0 +1,24 @@
+{
+  "name": "typonsive",
+  "version": "1.0.0",
+  "description": "Responsive typography framework working with or without bootstrap",
+  "files": ["assets"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antistatique/typonsive.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "responsive",
+    "typography"
+  ],
+  "author": "Marc Friederich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antistatique/typonsive/issues"
+  },
+  "homepage": "https://github.com/antistatique/typonsive#readme"
+}
